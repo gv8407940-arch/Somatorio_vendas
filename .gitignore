@@ -1,0 +1,16 @@
+
+# Planilhas da empresa
+*.xlsx
+*.xls
+*.xlsm
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários Excel
+~$*
